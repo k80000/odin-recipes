@@ -1,1 +1,1 @@
-Small recipes site project for html/css practice
+Small recipes site project for html/css practice.
